@@ -16,17 +16,17 @@ Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spri
 ![Python](https://stepik.org/certificate/01f1ba79fd0391fe39b6533dec9d08764c7ee556.png?resolution=medium?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
 
----https://stepik.org/certificate/01f1ba79fd0391fe39b6533dec9d08764c7ee556.png?resolution=medium
+---
 
 ## 🚀 Проекты
-### ![DeepCAD](https://github.com/tiranousor/DeepCAD)
-*Transformer + ML для создания 3D CAD объектов…*
+### [DeepCAD](https://github.com/tiranousor/Service_DeepCAD)
+*Transformer + ML для создания 3D CAD объектов*
 
-### [COMPILER‑IDE](…)
-*Онлайн среда программирования с компилятором…*
+### [COMPILER‑IDE](https://github.com/tiranousor/CompilerIDE)
+*Онлайн среда программирования*
 
 ### [ANOVA‑Analysis](…)
-*Статистический анализ: F-тесты, взаимодействия…*
+*Статистический анализ: F-тесты, взаимодействия*
 
 ---
 
