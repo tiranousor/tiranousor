@@ -1,16 +1,41 @@
-## Hi there 👋
+# Привет, я Екатерина 👋
 
-<!--
-**tiranousor/tiranousor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Analyst | Python, SQL, ML**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Обо мне
+- Выпускница ВоГУ (2025, отличница), люблю аналитику и ИИ.
+- Победитель хакатона СберТех, опыт работы Java и веб-сервисов.
+
+## 🛠 Технологии
+Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spring Boot · Docker · FastAPI · Excel · Power BI
+
+## 📜 Документы и достижения
+[![Stepik ML](...)](ссылка)
+[![Stepik SQL](...)]
+[![Stepik Python](...)]
+![Python](https://stepik.org/certificate/01f1ba79fd0391fe39b6533dec9d08764c7ee556.png?resolution=medium?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+
+---https://stepik.org/certificate/01f1ba79fd0391fe39b6533dec9d08764c7ee556.png?resolution=medium
+
+## 🚀 Проекты
+### [DeepCAD](…)
+*Transformer + ML для создания 3D CAD объектов…*
+
+### [COMPILER‑IDE](…)
+*Онлайн среда программирования с компилятором…*
+
+### [ANOVA‑Analysis](…)
+*Статистический анализ: F-тесты, взаимодействия…*
+
+---
+
+## 📈 GitHub Stats
+![Екатерина's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiranousor&show_icons=true)
+
+---
+
+## 📫 Контакты
+Telegram: @Tiranousor · serovakatya2911@gmail.com  
