@@ -25,8 +25,8 @@ Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spri
 ### [COMPILER‑IDE](https://github.com/tiranousor/CompilerIDE)
 *Онлайн среда программирования*
 
-### [ANOVA‑Analysis](…)
-*Статистический анализ: F-тесты, взаимодействия*
+### [ANOVA‑Analysis](https://github.com/tiranousor/pet-projects)
+*Набор pet-проектов по дисперсионному анализу: одно- и двухфакторный ANOVA, F-тесты, взаимодействия факторов*
 
 ---
 
