@@ -10,12 +10,7 @@
 
 ## 🛠 Технологии
 Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spring Boot · Docker · FastAPI · Excel · Power BI
-/*
-## 📜 Документы и достижения
 
-![Python](https://stepik.org/certificate/01f1ba79fd0391fe39b6533dec9d08764c7ee556.png?resolution=medium?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-*/
 ---
 
 ## 🚀 Проекты
@@ -31,7 +26,11 @@ Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spri
 ### [Spaceship Titanic App](https://github.com/tiranousor/spaceship-titanic-app.git)
 *Интерактивное веб-приложение на Streamlit для анализа данных из соревнования Spaceship Titanic. Реализована фильтрация по возрасту, статусу, криосну и планете вылета*
 
+### [Wages & Inflation App](https://github.com/tiranousor/wages-and-inflation.git)
+
+* *Streamlit-приложение для анализа динамики зарплат по отраслям экономики России в 2000–2023 гг. Реализована визуализация номинальных и реальных зарплат с учётом инфляции, пересчёт в ценах 2000 года и сравнение по отраслям*
 ---
+
 ## 📈 GitHub Stats
 ![Екатерина's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiranousor&show_icons=true)
 
