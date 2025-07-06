@@ -15,16 +15,16 @@ Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spri
 
 ## 🚀 Проекты
 ### [DeepCAD](https://github.com/tiranousor/Service_DeepCAD)
-*Transformer + ML для создания 3D CAD объектов*
+* *Transformer + ML для создания 3D CAD объектов*
 
 ### [COMPILER‑IDE](https://github.com/tiranousor/CompilerIDE)
-*Онлайн среда программирования*
+* *Онлайн среда программирования*
 
 ### [ANOVA‑Analysis](https://github.com/tiranousor/pet-projects)
-*Набор pet-проектов по дисперсионному анализу: одно- и двухфакторный ANOVA, F-тесты, взаимодействия факторов*
+* *Набор pet-проектов по дисперсионному анализу: одно- и двухфакторный ANOVA, F-тесты, взаимодействия факторов*
 
 ### [Spaceship Titanic App](https://github.com/tiranousor/spaceship-titanic-app.git)
-*Интерактивное веб-приложение на Streamlit для анализа данных из соревнования Spaceship Titanic. Реализована фильтрация по возрасту, статусу, криосну и планете вылета*
+* *Интерактивное веб-приложение на Streamlit для анализа данных из соревнования Spaceship Titanic. Реализована фильтрация по возрасту, статусу, криосну и планете вылета*
 
 ### [Wages & Inflation App](https://github.com/tiranousor/wages-and-inflation.git)
 
