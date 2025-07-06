@@ -38,4 +38,4 @@ Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spri
 ---
 
 ## 📫 Контакты
-Telegram: @Tiranousor · serovakatya2911@gmail.com  
+Telegram: [Tiranousor](https://t.me/Tiranousor) · serovakatya2911@gmail.com
