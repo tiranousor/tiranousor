@@ -1,4 +1,4 @@
-# Привет, я Екатерина 👋
+# Привет, я Екатерина 
 
 **Data Analyst | Python, SQL, ML**
 
@@ -28,6 +28,8 @@ Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spri
 ### [ANOVA‑Analysis](https://github.com/tiranousor/pet-projects)
 *Набор pet-проектов по дисперсионному анализу: одно- и двухфакторный ANOVA, F-тесты, взаимодействия факторов*
 
+### [Spaceship Titanic App](https://github.com/tiranousor/spaceship-titanic-app.git)
+*Интерактивное веб-приложение на Streamlit для анализа данных из соревнования Spaceship Titanic. Реализована фильтрация по возрасту, VIP-статусу, криосну и планете вылета. Приложение публикуется через Streamlit Cloud.*
 ---
 
 ## 📈 GitHub Stats
