@@ -29,9 +29,9 @@ Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spri
 *Набор pet-проектов по дисперсионному анализу: одно- и двухфакторный ANOVA, F-тесты, взаимодействия факторов*
 
 ### [Spaceship Titanic App](https://github.com/tiranousor/spaceship-titanic-app.git)
-*Интерактивное веб-приложение на Streamlit для анализа данных из соревнования Spaceship Titanic. Реализована фильтрация по возрасту, VIP-статусу, криосну и планете вылета. Приложение публикуется через Streamlit Cloud.*
----
+*Интерактивное веб-приложение на Streamlit для анализа данных из соревнования Spaceship Titanic. Реализована фильтрация по возрасту, статусу, криосну и планете вылета*
 
+---
 ## 📈 GitHub Stats
 ![Екатерина's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiranousor&show_icons=true)
 
