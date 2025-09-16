@@ -4,10 +4,6 @@
 
 ---
 
-## 🧠 Обо мне
-- Выпускница ВоГУ (2025, с отличием), люблю аналитику и ИИ.
-- Победитель хакатона СберТех, опыт работы Java и веб-сервисов.
-
 ## 🛠 Технологии
 Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spring Boot · Docker · FastAPI · Excel · Power BI
 
