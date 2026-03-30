@@ -1,4 +1,4 @@
-# Привет, я Екатерина 
+# Екатерина 
 
 **Data Analyst | Python, SQL, ML**
 
