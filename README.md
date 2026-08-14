@@ -25,10 +25,6 @@ Python · Pandas · NumPy · scikit‑learn · SQL · PostgreSQL · Java · Spri
 ### [Wages & Inflation App](https://github.com/tiranousor/wages-and-inflation.git)
 
 * *Streamlit-приложение для анализа динамики зарплат по отраслям экономики России в 2000–2016 гг. Реализована визуализация номинальных и реальных зарплат с учётом инфляции, пересчёт в ценах 2000 года и сравнение по отраслям*
----
-
-## 📈 GitHub Stats
-![Екатерина's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiranousor&show_icons=true)
 
 ---
 
